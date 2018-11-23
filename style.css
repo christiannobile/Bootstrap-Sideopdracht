@@ -1,11 +1,14 @@
 .showcaseimage1{
+  min-height: 400px;
   background-image: url('images/artsy.png');
 }
 
 .showcaseimage2{
+  min-height: 400px;
   background-image: url('images/tree.png');
 }
 
 .showcaseimage3{
+  min-height: 400px;
   background-image: url('images/greenstuff.png');
 }
