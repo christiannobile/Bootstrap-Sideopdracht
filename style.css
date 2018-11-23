@@ -4,3 +4,23 @@
     width: 100%;
     height: 100%;
 }
+
+
+/*showcase*/
+.showcaseimage1{
+  min-height: 400px;
+  background-image: url('images/artsy.png');
+}
+
+.showcaseimage2{
+  min-height: 400px;
+  background-image: url('images/tree.png');
+}
+
+.showcaseimage3{
+  min-height: 400px;
+  background-image: url('images/greenstuff.png');
+}
+
+/* Pink Circles */
+.heading-img{background:#ffb4d9;width:150px;height:150px;border-radius:50%;}
